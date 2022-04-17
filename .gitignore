@@ -1,0 +1,10 @@
+node_modules
+*.log
+.nuxt
+nuxt.d.ts
+.output
+.env
+.vscode
+coverage
+cypress/videos
+cypress/screenshots
