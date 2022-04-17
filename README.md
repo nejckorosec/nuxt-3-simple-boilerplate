@@ -32,6 +32,10 @@ Before getting started, please make sure you have [installed](https://v3.nuxtjs.
   - Either enable Take Over Mode (recommended)
   - ... or add TypeScript Vue Plugin (Volar)
 
+## Try it
+
+Create new repo with this [template](https://github.com/nejckorosec/nuxt-3-simple-boilerplate/generate).
+
 ## Setup
 
 Make sure to install the dependencies
