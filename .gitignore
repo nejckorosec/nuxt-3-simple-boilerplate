@@ -1,10 +1,22 @@
+# Editor files
+.idea/
+.vscode
+
+# Local environment
+.env
+
+# Node
 node_modules
+
+# Logs
 *.log
+
+# Cypress
+cypress/videos
+cypress/screenshots
+
+# Nuxt
 .nuxt
 nuxt.d.ts
 .output
-.env
-.vscode
 coverage
-cypress/videos
-cypress/screenshots
